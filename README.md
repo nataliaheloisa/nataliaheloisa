@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 I'm Natália Heloísa!!<h2>
+<h2 align="center"> Hi 👋 I'm Natália Berniche!!<h2>
 
 
 - 🌱 I'm currently studying full stack web development at Labenu
