@@ -22,6 +22,9 @@
   <img align="center" alt="Natália-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Natália-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Natália-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Natália-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
 </div>
 
 ##
